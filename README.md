@@ -9,14 +9,14 @@ Bem-vindo(a)! Este é um projeto desenvolvido durante a **Imersão Alura**, onde
 Este projeto tem como objetivo praticar e reforçar conhecimentos de **HTML**, **CSS** e **JavaScript**, criando uma interface moderna e parecida com a home do Spotify. Durante o desenvolvimento, foram trabalhadas habilidades como:
 
 - Estruturação de página com **HTML semântico**
-- Estilização com **CSS3** (cores, gradientes, posicionamento, responsividade)
+- Estilização com **CSS** (cores, gradientes, posicionamento, responsividade)
 - Interatividade com **JavaScript** (ex: botões e navegação)
 - Utilização de **Flexbox** para layout responsivo
 
 ## 🛠️ Tecnologias utilizadas
 
 - HTML5
-- CSS3
+- CSS
 - JavaScript
 - Font Awesome (para ícones)
 - Google Fonts
